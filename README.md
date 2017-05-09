@@ -53,7 +53,7 @@ spec:
 
 Apply to your cluster
 
-    kuberctl apply -f gcsfuse-example-deployment.yaml
+    kubectl apply -f gcsfuse-example-deployment.yaml
 
 
 Credits
